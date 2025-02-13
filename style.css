@@ -237,7 +237,7 @@ border-radius:10px;
       }
 
       .text:hover:before {
-        content:" Always remember, you're beautiful just as you are Nabi.";
+        content:" Always remember, you're beautiful just as you are Vivien.";
         font-size:20px;
 
         display: block; /* Make the pseudo-element block-level to allow wrapping */
